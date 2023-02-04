@@ -8,11 +8,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asirimathK" alt="asirimathK" /></a> </p>
 
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 - 🌱 I’m currently learning **Algorithms and AI**
 
 - 📫 Reach me through **asirimath20@gmail.com**
 
-- ⚡ Fun fact **"Asirimath" isn't that sounds funny?**
+- ⚡ Fun fact - **"Asirimath" isn't that sounds funny?**
 
 
 
